@@ -1,0 +1,22 @@
+    1  conda activate dev
+    2  cd c:/RajBootCamp/prop*
+    3  git config --global user.name Raj Tolani
+    4  git config --global user.email admin@tolanicollection.com
+    5  git config --list
+    6  conda list hvplot
+    7  git clone https://github.com/rajtolani/Challenge-6-SF-Rental-mkt-Viz.git
+    8  ls
+    9  cd Cha*
+   10  ls
+   11  git status
+   12  git add ,
+   13  git add .
+   14  git status 
+   15  git commit -m "This version has the original starter files provided but the Fintech BootCamp Staff"
+   16  git push
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "This version has the final code for submission. ALso included is the file boken_plot.png which is snapshot of the housing units per year bar plot at the right zoom level"
+   21  git push
+   22  history 50 > terminal_history.txt
